@@ -1,2 +1,2 @@
 # ArduinoNavLights
- DIY Quadcopter Navigation Lights With Remote Control
+ DIY Quadcopter Navigation Lights With Remote Control Support
